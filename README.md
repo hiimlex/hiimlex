@@ -9,9 +9,19 @@
 <h4 align="center">
   <i>Frontend Developer at <a href="https://www.brisanet.com.br/" target="_blank">Brisanet</a> </i> 🏢 <br>
   <i>UX/UI Designer and Musician  </i> 🎨
+  <br> <br>
+  <b> Love food, music and art. Always Open for new business. Contact me: </b>
+  <br> <br>
+  <a href="https://twitter.com/wastedyuno" target="_blanck">
+     <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051331.svg?token=exp=1611072536~hmac=6d1fce696fdec49f0d98e7e71aa4ca32" width="24px"/>
+  </a>
+  <a href="https://github.com/hiimlex" target="_blank">
+    <img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111432.svg?token=exp=1611072847~hmac=97ba8b9a642f9d25b8162702c2d9c9eb" width="24px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alex-rodrigues-83558718b/" target="_blank">
+    <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1611072976~hmac=4037e4e60f314bfe657e9ff788832f70" width="24px"/>
+  </a>
+  <a href="https://www.instagram.com/wastedyuno" target="_blank">
+    <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384015.svg?token=exp=1611073032~hmac=f53a7c9187bee5a3bb25c835793539c5" width="24px"/>
+  </a>
 </h4>
-<br>
-
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p
