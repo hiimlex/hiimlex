@@ -12,9 +12,6 @@
   <br> <br>
   <b> Love food, music and art. Always Open for new business. Contact me: </b>
   <br> <br>
-  <a href="https://twitter.com/wastedyuno" target="_blanck">
-     <img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051331.svg?token=exp=1611072536~hmac=6d1fce696fdec49f0d98e7e71aa4ca32" width="24px"/>
-  </a>
   <a href="https://github.com/hiimlex" target="_blank">
     <img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111432.svg?token=exp=1611072847~hmac=97ba8b9a642f9d25b8162702c2d9c9eb" width="24px"/>
   </a>
