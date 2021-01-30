@@ -12,9 +12,6 @@
   <br> <br>
   <b> Love food, music and art. Always Open for new business. Contact me: </b>
   <br> <br>
-  <a href="https://github.com/hiimlex" target="_blank">
-    <img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111432.svg?token=exp=1611072847~hmac=97ba8b9a642f9d25b8162702c2d9c9eb" width="24px"/>
-  </a>
   <a href="https://www.linkedin.com/in/alex-rodrigues-83558718b/" target="_blank">
     <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1611072976~hmac=4037e4e60f314bfe657e9ff788832f70" width="24px"/>
   </a>
