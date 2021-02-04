@@ -13,7 +13,7 @@
   <b> Love food, music and art. Always Open for new business. Contact me: </b>
   <br> <br>
   <a href="https://www.linkedin.com/in/alex-rodrigues-83558718b/" target="_blank">
-    <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1611072976~hmac=4037e4e60f314bfe657e9ff788832f70" width="24px"/>
+    <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1612447592~hmac=b0aad57c9b9bc6b5bfea3c5a067f6e9d" width="24px"/>
   </a>
   <a href="https://www.instagram.com/wastedyuno" target="_blank">
     <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384015.svg?token=exp=1611073032~hmac=f53a7c9187bee5a3bb25c835793539c5" width="24px"/>
