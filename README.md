@@ -9,9 +9,12 @@
   <b> Love food, music and art. Always Open for new business. Contact me: </b>
   <br> <br>
   <a href="https://www.linkedin.com/in/alex-rodrigues-83558718b/" target="_blank">
-    <span>LinkedIn<span>
+    <span>LinkedIn</span>
   </a>
   <a href="https://www.instagram.com/wastedyuno" target="_blank">
-     <span>Instagram<span>
+     <span>Instagram</span>
   </a>
+ <a href="https://hiimlex.github.io/portfolio" target="_blank">
+   <span>Portfolio</span>
+ </a>
 </h4>
