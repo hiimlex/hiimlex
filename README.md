@@ -1,12 +1,12 @@
 <h1 align="center">Hi i'm lex</h1>
 
-<h4 align="center">Usually called yuno, there's a lot of magic going on here, and this is my attempt to be a different person.</h4>
+<h4 align="center">Usually called yuno, i like to start new projects even if i'm not ready to finish them .</h4>
 
-<p align="center">Underrated Front-end developer as UX/UI Designer and musician.</p>
+<p align="center">Frontend developer as UX/UI Designer and musician.</p>
 
-<p align="center">Check my portfolio <a target="_blank" href="https://hiimlex.github.io/portfolio/">There</a></p>
+<p align="center">Check out my portfolio <a target="_blank" href="https://hiimlex.github.io/portfolio/">There</a></p>
 
-<h3 align="center"><b>My stack:</b></h3>
+<h3 align="center"><b>My Frontend Skills:</b></h3>
 
 <p align="center">
   <img width="220" src="https://user-images.githubusercontent.com/49082043/128790204-c398890f-f553-4e3c-8859-76d02c6dd281.png">
